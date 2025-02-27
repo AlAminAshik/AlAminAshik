@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlAminAshik
 - 👀 I’m interested in electronic projects
-- 🌱 I’m currently learning BSC in EEE
+- 🌱 I’m currently an Embedded Systems Engineer
 - 📫 FB ID: https://www.facebook.com/profile.php?id=100007704840136
       Email: alaminashik890.bd@gmail.com
 <!---
