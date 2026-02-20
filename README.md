@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AlAminAshik
-- 👀 I’m interested in electronic projects
-- 🌱 I’m currently an Embedded Systems Engineer
-- 📫 FB ID: https://www.facebook.com/profile.php?id=100007704840136
+- Hola, I’m @AlAminAshik
+- I’m interested in electronic projects and coding.
+- I’m currently a Senior Embedded Systems Engineer.
+- FB ID: https://www.facebook.com/profile.php?id=100007704840136
       Email: alaminashik890.bd@gmail.com
 <!---
 AlAminAshik/AlAminAshik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
